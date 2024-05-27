@@ -1,0 +1,84 @@
+{
+    "name": "Cecília Sueli Ribeiro",
+    "gender": "FEMININO",
+    "cpf": "19560460382",
+    "address": {
+        "street": "Rua Jaime G. Passos",
+        "number_home": 122,
+        "neighborhood": "Marambaia",
+        "city": "São Gonçalo",
+        "state": "RJ",
+        "cep": "24727247"
+    },
+    "email": "cecilia_ribeiro@yahoo.com",
+    "password": "123456",
+    "dateOfBirth": "1989-07-13"
+}
+
+{
+    "name": "Natália Heloisa Gabriela de Paula",
+    "gender": "FEMININO",
+    "cpf": "42948431441",
+    "address": {
+        "street": "Travessa Nova Iray",
+        "number_home": 919,
+        "neighborhood": "Vila São Jorge da Lagoa",
+        "city": "Campo Grande",
+        "state": "MS",
+        "cep": "79095070"
+    },
+    "email": "natalia-depaula90@hotmail.com",
+    "password": "Nbs1r6A9hO",
+    "dateOfBirth": "1989-02-07"
+}
+
+{
+    "name": "Hugo Lucca Enrico da Silva",
+    "gender": "MASCULINO",
+    "cpf": "41769918876",
+    "address": {
+        "street": "Rua Ariranha",
+        "number_home": 815,
+        "neighborhood": "Chácara das Mansões",
+        "city": "Campo Grande",
+        "state": "MS",
+        "cep": "79079185"
+    },
+    "email": "hugo_dasilva@htmail.com",
+    "password": "cKwZn6xLUA",
+    "dateOfBirth": "2006-01-06"
+}
+
+{
+    "name": "Julio Heitor Assunção",
+    "gender": "MASCULINO",
+    "cpf": "56307197692",
+    "address": {
+        "street": "Travessa Solon Ribeiro",
+        "number_home": 735,
+        "neighborhood": "Águas Negras (Icoaraci)",
+        "city": "Belém",
+        "state": "PA",
+        "cep": "66822106"
+    },
+    "email": "julio-assuncao93@gmail.com",
+    "password": "AueUWJtQrk",
+    "dateOfBirth": "1964-02-04"
+}
+
+{
+    "name": "Nicole Tânia Cecília Gonçalves",
+    "gender": "FEMININO",
+    "cpf": "97343698141",
+    "address": {
+        "street": "Rua General Flores da Cunha",
+        "number_home": 461,
+        "neighborhood": "Jardim Concórdia",
+        "city": "Toledo",
+        "state": "PR",
+        "cep": "85906760"
+    },
+    "email": "nicoletaniagoncalves@hotmail.com",
+    "password": "K9iCCgZPTx",
+    "dateOfBirth": "1990-05-09"
+}
