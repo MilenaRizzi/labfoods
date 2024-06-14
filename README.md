@@ -37,5 +37,3 @@ $ Entre no arquivo da classe `LabfoodsApplication` para executar o projeto
 ## Autora
 Milena Clara Ribeiro Rizzi
 
-## Vídeo apresentação
-https://drive.google.com/file/d/1i_4J1Kx1Ir-Q45ksxF-0jt51uN9QNToB/view?usp=sharing
